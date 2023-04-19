@@ -4,3 +4,6 @@ This Power BI project focuses on analyzing the sales data of shopping malls in I
 The dashboard includes various visuals that provide insights into sales trends, customer behavior, and performance metrics for individual shopping malls. The dashboard also features interactive filters that allow users to explore the data in more detail, such as filtering by time period, mall location, or product category.
 
 Overall, this project demonstrates my proficiency in data analysis, visualization, and transformation using Power BI. The data was sourced from a reliable and publicly available database, and the project showcases my ability to work with complex data sets to generate meaningful insights for business stakeholders.
+
+Data source:
+https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
